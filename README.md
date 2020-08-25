@@ -1,4 +1,11 @@
-### Hi there 👋
+# [Bruna Espindola](http://linkedin.com/in/bruna-espindola/) 💬
+
+Tenho 23 anos e sou formada em gestão empresarial, pela Fatec - ZL. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec - ZL.
+
+⚡ Caminhando para o desenvolvimento web, se arriscando em UX/UI e Mobile.
+
+
+
 
 <!--
 **brunesp/brunesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
