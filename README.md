@@ -2,7 +2,7 @@
 
 Tenho 23 anos e sou formada em gestão empresarial, pela Fatec - ZL. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec - ZL.
 
-⚡ Caminhando para o desenvolvimento web, se arriscando em UX/UI e Mobile.
+⚡ Caminhando para o desenvolvimento web, se arriscando em Mobile.
 
 
 
