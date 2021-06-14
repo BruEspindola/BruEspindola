@@ -1,6 +1,6 @@
 # [Bruna Espindola](http://linkedin.com/in/bruna-espindola/) 💬
 
-Tenho 23 anos e sou formada em gestão empresarial, pela Fatec - ZL. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec - ZL.
+Tenho 24 anos e sou formada em gestão empresarial, pela Fatec - ZL. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec - ZL.
 
 ⚡ Caminhando para o desenvolvimento web, se arriscando em Mobile.
 
