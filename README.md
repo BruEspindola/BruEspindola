@@ -6,8 +6,8 @@ Tenho 24 anos e sou formada em gestão empresarial, pela Fatec - ZL. Atualmente,
 
 
  <div>
-  <a href="https://github.com/brunesp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunesp&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/BruEspindola">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruEspindola&layout=compact&langs_count=16&theme=dracula"/>
    <img height="180em" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </div>
 
