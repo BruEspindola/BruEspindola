@@ -16,4 +16,3 @@ Desenvolvedora Front end, entusiasta a UI/UX, com o coração em Full stack
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruespindola&theme=dark" alt="bruespindola" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruespindola&label=Profile%20views&color=fd6d6d&style=flat" alt="bruespindola" /> </p>
