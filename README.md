@@ -2,8 +2,8 @@
 
 Desenvolvedora Mobile e Front-end 
 
-- 🌱 Atualmente estudando **React Native e TypeScript**
-- 🕹️ Trabalhando com **React, React Native e Node**
+- 🌱 Atualmente estudando **Kotlin**
+- 🕹️ Trabalhando com **React, Nextjs, Typescript**
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
