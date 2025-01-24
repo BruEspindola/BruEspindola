@@ -1,9 +1,6 @@
 <h1 align="left">Oi, eu sou a Bruna 🐈‍⬛</h1>
 
-Desenvolvedora Mobile e Front-end 
-
-- 🌱 Atualmente estudando **Kotlin**
-- 🕹️ Trabalhando com **React, Nextjs, Typescript**
+Desenvolvedora Front-end e Mobile
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
